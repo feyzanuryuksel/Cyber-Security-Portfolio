@@ -4,7 +4,7 @@ Bu repository; sızma testi (pentest) metodolojilerini uyguladığım raporları
 
 ##  Projeler ve Raporlar
 
-### 1. 🕵 Sızma Testi Raporları (Pentest Reports)
+### 1.  Sızma Testi Raporları (Pentest Reports)
 
 Gerçek dünya senaryoları ve simülasyon ortamlarında tespit edilen zafiyetlerin teknik analizi.
 
